@@ -22,7 +22,8 @@ public final class Principal extends javax.swing.JFrame {
     public Principal() {
         initComponents();
         setLocationRelativeTo(null);
-        setTitle("OPERACIONES");
+        setTitle("LP1");
+        
 
     }
 
